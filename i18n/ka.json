@@ -163,6 +163,8 @@
     "searchPanes": {
         "clearMessage": "გასუფთავება",
         "title": "აქტიური ფილტრები - %d",
+         "showMessage": "ყველას ჩვენება",
+        "collapseMessage": "ყველას დახურვა",
         "collapse": {
             "_": "ძიების პანელი (%d)",
             "0": "ძიების პანელი"
